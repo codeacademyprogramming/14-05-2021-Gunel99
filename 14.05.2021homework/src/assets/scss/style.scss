@@ -1,0 +1,10 @@
+@import './variable';
+@import '~bootstrap/scss/bootstrap';
+
+body{
+    background-color: $bg-color;
+}
+img{
+    width: 200px;
+    height: auto;
+}
